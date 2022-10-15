@@ -9,8 +9,9 @@
 3.kita pindah directory yg barusan kita buat dengan cara $cd latihan_buat <br>
 ![gambar 1](foto/ss2.png) <br>
 4.kita akan inisilasisasi folder git dengan cara $git init <br>
-![gambar2](foto/ss3.png)
-5.kita menambahkan file baru pada repositori kita dengan cara $echo “# latihan buat repository” >> README.md. dan file README.md telah berhasil kita buat
+![gambar2](foto/ss3.png)<br>
+5.kita menambahkan file baru pada repositori kita dengan cara $echo “# latihan buat repository” >> README.md. dan file README.md telah berhasil kita buat <br>
+![gambar3](foto/ss8.png) <br>
 6.menambhkan file baru repository dengan cara $git add README.md
 7.selamat kita berhasil menambahkan file baru repository
 8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita"
