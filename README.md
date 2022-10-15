@@ -12,7 +12,8 @@
 ![gambar2](foto/ss3.png)<br>
 5.kita menambahkan file baru pada repositori kita dengan cara $echo “# latihan buat repository” >> README.md. dan file README.md telah berhasil kita buat <br>
 ![gambar3](foto/ss8.png) <br>
-6.menambhkan file baru repository dengan cara $git add README.md
+6.menambhkan file baru repository dengan cara $git add README.md <br>
+![gambar4](foto/ss9.png) <br>
 7.selamat kita berhasil menambahkan file baru repository
 8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita"
 9.setelah itu kita membuat respository ke server
