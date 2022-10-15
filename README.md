@@ -22,6 +22,7 @@
 11.anda harus membuat akun github dulu <br>
 ![gambar6](foto/ss11.png) <br>
 12.setelah anda berhasil membuat akun github anda pada halamam beranda klik start a project lalu buat new repository
+![gambar7](foto/ss12.png)<br>
 13.membuat repository server
 14.menambhakan remote repository dengan cara git remote add orign url
 15.mengirim perubahan ke server dengan cara $git push -u orign master (biasa nya ada perintah untuk masukin akun github kita untuk konekin ke server)
