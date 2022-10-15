@@ -17,9 +17,10 @@
 7.selamat kita berhasil menambahkan file baru repository <br>
 8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita" <br>
 ![gambar5](foto/ss10.png) <br>
-9.setelah itu kita membuat respository ke server
-10.server repository yang kita buat menggunakan github.com
-11.anda harus membuat akun github dulu
+9.setelah itu kita membuat respository ke server <br>
+10.server repository yang kita buat menggunakan github.com <br>
+11.anda harus membuat akun github dulu <br>
+![gambar6](foto/ss11.png) <br>
 12.setelah anda berhasil membuat akun github anda pada halamam beranda klik start a project lalu buat new repository
 13.membuat repository server
 14.menambhakan remote repository dengan cara git remote add orign url
