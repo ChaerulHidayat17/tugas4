@@ -14,8 +14,9 @@
 ![gambar3](foto/ss8.png) <br>
 6.menambhkan file baru repository dengan cara $git add README.md <br>
 ![gambar4](foto/ss9.png) <br>
-7.selamat kita berhasil menambahkan file baru repository
-8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita"
+7.selamat kita berhasil menambahkan file baru repository <br>
+8.sekarang kita commit atau yang biasa kita kenal menyimpan perubahan ke database dengan cara $git commit -m "file pertama kita" <br>
+![gambar5](foto/ss10.png) <br>
 9.setelah itu kita membuat respository ke server
 10.server repository yang kita buat menggunakan github.com
 11.anda harus membuat akun github dulu
