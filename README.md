@@ -25,6 +25,9 @@
 ![gambar7](foto/ss12.png)<br>
 13.membuat repository server <br>
 ![gambar8](foto/ss4.png) <br>
-14.menambhakan remote repository dengan cara git remote add orign url
+14.menambhakan remote repository dengan cara git remote add orign url <br>
+![gambar9](foto/ss13.png) <br>
+catatan link url nya adalah link repository github yang tadi kita buat <br>
+![gambar10](foto/ss14.png) <br>
 15.mengirim perubahan ke server dengan cara $git push -u orign master (biasa nya ada perintah untuk masukin akun github kita untuk konekin ke server)
 16.buka akun github anda dan lihat pada repository nya maka perubahan akan terlihat di situh
