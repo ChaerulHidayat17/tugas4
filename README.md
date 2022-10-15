@@ -5,8 +5,8 @@
 ### kita membuat repositories
 
 1.kita buat folder di pc kita<br>
-2.kita ketik $mkdir latihan_buat untuk menambahkan folder
-3.kita pindah directory yg barusan kita buat dengan cara $cd latihan_buat
+2.kita ketik $mkdir latihan_buat untuk menambahkan folder<br>
+3.kita pindah directory yg barusan kita buat dengan cara $cd latihan_buat <br>
 ![gambar 1](foto/ss2.png)
 4.kita akan inisilasisasi folder git dengan cara $git init
 5.kita menambahkan file baru pada repositori kita dengan cara $echo “# latihan buat repository” >> README.md. dan file README.md telah berhasil kita buat
